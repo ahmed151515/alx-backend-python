@@ -11,5 +11,5 @@ def to_str(n: float) -> str:
 
     Returns:
         str: _description_
-    """    
+    """
     return str(n)
